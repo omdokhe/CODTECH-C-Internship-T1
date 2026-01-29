@@ -1,6 +1,6 @@
 /*
 ===========================================================
- CODTECH Internship Task-1 (Advanced Level)
+ CODTECH Internship Task-1  
  File Handling Program in C
 
  Features:
@@ -272,3 +272,4 @@ void deleteFile() {
     else
         printf("❌ Error: Unable to delete file.\n");
 }
+
