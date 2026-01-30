@@ -5,6 +5,13 @@ INTERN ID : CTIS1983
 DOMAIN  : C LANGUAGE
 DURATION : 4 WEEKS
 MENTOR  : NEELA SANTOSH
+OUTPUT  :
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/bb80ebbe-a12d-4382-ad1d-643701d002a0" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/d4aca9c1-5a6e-4fbd-9157-d2013f677f61" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/2ecad5d1-97d3-427e-8634-b0aea37ad72b" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/da8d1297-3548-4b41-9a0b-f4007ce94180" />
+<img width="1919" height="1077" alt="Image" src="https://github.com/user-attachments/assets/1afa81fb-eb70-4852-8202-7ce91e0942d6" />
+<img width="1919" height="579" alt="Image" src="https://github.com/user-attachments/assets/34b46776-456f-4c19-b464-a1ef8afd102f" />
 DESCRIPTION :
 
 This repository contains the tasks completed during my CODTECH Internship Program. The internship focused on developing strong fundamentals in C programming through practical implementation of core computer science concepts such as file handling, linked lists, compiler design basics, and data compression techniques.
